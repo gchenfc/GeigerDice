@@ -1,0 +1,8 @@
+﻿Designator,Part Number,Desc,Link
+U1,NE555,555 timer,https://jlcpcb.com/partdetail/TexasInstruments-NE555DR/C7593
+R8,,15ohm resistor,https://jlcpcb.com/partdetail/18168-0805W8F150JT5E/C17480
+VR1,,10ohm pot,https://jlcpcb.com/partdetail/Bourns-3314J_1100E/C124638
+R9,,220k,
+R5,,1k,
+R6,,330,
+R1,,100k,
